@@ -1,6 +1,6 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV4YjBrdWQ0d3lzY2RrNDB3YmlzcTNlZ21jcHpoeHgwN2hkcWwycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tnwJZO1hrPI8IpNOI/giphy.gif" width='120'/>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBnNnd6dzV5aWRvMHV2amw5Y3N4OHdsdmt1dXVmdDUwcmVvdGRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aQiJvLgOq2NLa0/giphy.gif" width='120'/>
 
 
    [![](https://dcbadge.limes.pink/api/shield/732597724289171526?theme=discord-inverted)](https://discord.com/users/732597724289171526)
