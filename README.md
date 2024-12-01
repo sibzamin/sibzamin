@@ -77,9 +77,7 @@ I'm an indie Configurator & Designer building my version of the digital world on
 <details>
  <summary><h3>🥔 sibamin's Journey</h3></summary>
    <p align="left">
-I began experimenting with code and development at the age of 15.<br/>What started as a curiosity soon became a passion, and over the years, I've immersed myself in the world of programming. <br/>I've gained expertise in front-end technologies like HTML5, CSS3, JavaScript, Bootstrap, and TypeScript, as well as modern frameworks like React.js and Node.js. These skills have allowed me to create dynamic, responsive web applications.<br/>
-In addition to my core programming skills, I've also explored other areas of development and design. I'm proficient in Python, C++, C#, which have strengthened my problem-solving abilities and versatility as a developer.<br/> My creative side shines through with my knowledge of Photoshop and Premiere Pro, tools that allow me to design and edit visual content. <br/>I'm also comfortable working in Linux and writing in Markdown, making me well-rounded in both development and content creation.
-<br/>On top of that, I speak Persian, English, and German (B1), which has broadened my cultural perspectives and enhanced my communication skills. My journey so far has been fueled by a passion for learning, creating, and pushing the boundaries of what's possible. I'm always eager to take on new challenges and turn my ideas into reality, continuously striving to grow as both a developer and a person.
+soon...
 <p/>
 
 
