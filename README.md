@@ -25,8 +25,6 @@ I'm an indie Configurator & Designer building my version of the digital world on
 
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills
-
-
 <div align="center">
 <code><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=CPLUSPLUS&logoColor=yellow" alt="C++"></code>
 
