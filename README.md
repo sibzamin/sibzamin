@@ -4,7 +4,7 @@
 
 
    [![](https://dcbadge.limes.pink/api/shield/732597724289171526?theme=discord-inverted)](https://discord.com/users/732597724289171526)
-   [![](https://dcbadge.limes.pink/api/server/vDt3y26s8B)](https://discord.com/invite/vDt3y26s8B)
+   [![](https://dcbadge.limes.pink/api/server/vDt3y26s8B)](https://discord.gg/TPVgZt3NGC)
    
    I'm Kasra, a 16 years non-experienced coder living in Tehran, Iran.
   
